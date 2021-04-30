@@ -12,7 +12,7 @@ a precise time span and will not vary from
 one day to the next due to speed control
 adjustments."
 
-BG has shrunk this pcb down to the size of the 4049 ic. its available in different clocks speeds.
+BG has shrunk this pcb down to the size of the 4049 ic and goes into the socket. its available in different clock speeds, preferably standard baud rates.
 
 I would also like to add a single stepper version with bus LEDS for debugging.
 
