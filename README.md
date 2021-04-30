@@ -13,6 +13,6 @@ one day to the next due to speed control
 adjustments."
 
 BG has shrunk this pcb down to the size of the 4049 ic and goes into the socket. its available in different clock speeds, preferably standard baud rates.
-
+A propsed idea of selectable values and a VCO option as well.
 I would also like to add a single stepper version with bus LEDS for debugging.
 
