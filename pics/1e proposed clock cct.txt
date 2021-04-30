@@ -1,0 +1,4 @@
+Proposed (and partially laid out) clock circuit for the TEC-1E.
+It defaults to VCO, and then under software control can select one of the multiple divisions. 4.00 MHz is possible, BUT certainly won't work with all processors - I had a spare input line, so I used it
+
+Getting the 4024 and 74xxx151 wired together was the biggest challenge. With the chips side by side, just about every trace crossed every other trace. I put them end to end - and I didn't even need vias....
